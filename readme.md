@@ -91,7 +91,9 @@
 ## =================================================
 ## 5. References (Tài liệu tham khảo)
 ## =================================================
-Tài liệu học phần “Machine Learning with Spark – Lab 5: Text Classification”.
+- Tài liệu học phần “Machine Learning with Spark – Lab 5: Text Classification”.
+- Data: https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment
+
 
 
 
